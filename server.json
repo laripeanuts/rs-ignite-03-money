@@ -2,30 +2,30 @@
   "transactions": [
     {
       "id": 1,
-      "description": "Desenvolvimento de site",
+      "description": "Salário",
       "type": "income",
-      "category": "Venda",
-      "price": 14000,
+      "category": "Salário",
+      "price": 10000,
       "createdAt": "2022-07-29T19:36:44.505Z"
     },
     {
       "id": 2,
-      "description": "Hambúrguer",
+      "description": "Jantar",
       "type": "outcome",
       "category": "Alimentação",
-      "price": 60,
+      "price": 45,
       "createdAt": "2022-07-29T19:30:44.505Z"
     },
     {
       "id": 3,
-      "description": "Ignite",
+      "description": "Curso",
       "type": "outcome",
       "category": "Educação",
-      "price": 1980,
+      "price": 600,
       "createdAt": "2022-07-29T19:24:44.505Z"
     },
     {
-      "description": "Desenvolvimento de app",
+      "description": "Desenvolvimento de site",
       "price": 10000,
       "category": "Venda",
       "type": "income",
@@ -33,20 +33,28 @@
       "id": 4
     },
     {
-      "description": "Pastel",
+      "description": "Cinema",
       "price": 5,
-      "category": "Alimentação",
+      "category": "Lazer",
       "type": "outcome",
       "createdAt": "2022-07-30T13:30:57.560Z",
       "id": 5
     },
     {
-      "description": "Iogurte de Banana",
-      "price": 4,
+      "description": "Pães",
+      "price": 5,
       "category": "Alimentação",
       "type": "outcome",
       "createdAt": "2022-07-30T13:38:57.560Z",
       "id": 6
+    },
+    {
+      "description": "Presente para namorada'",
+      "price": 500,
+      "category": "Lazer",
+      "type": "outcome",
+      "createdAt": "2023-02-04T20:11:24.108Z",
+      "id": 7
     }
   ]
 }
